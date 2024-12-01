@@ -2,6 +2,9 @@
 
 > **更新时间：2024/12/01**  
 > **作者：lory-b**
+<meta name="description" content="国内最全的 ChatGPT 镜像站整理，支持 GPT-4 和免费使用教程">
+<meta name="keywords" content="ChatGPT, 镜像站, 国内, GPT-4, 免费, 中文版">
+
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 **ChatGPT 镜像站资源**，方便用户无需翻墙即可快速访问 GPT 的强大功能，同时提供免费的使用教程和详细对比分析，助您快速找到最适合的镜像站点。
 
@@ -112,6 +115,5 @@
 持续关注，获取更多免费、优质的 ChatGPT 使用方法与资源。
 
 ---
-<meta name="description" content="国内最全的 ChatGPT 镜像站整理，支持 GPT-4 和免费使用教程">
-<meta name="keywords" content="ChatGPT, 镜像站, 国内, GPT-4, 免费, 中文版">
+
 
