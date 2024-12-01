@@ -112,3 +112,6 @@
 持续关注，获取更多免费、优质的 ChatGPT 使用方法与资源。
 
 ---
+<meta name="description" content="国内最全的 ChatGPT 镜像站整理，支持 GPT-4 和免费使用教程">
+<meta name="keywords" content="ChatGPT, 镜像站, 国内, GPT-4, 免费, 中文版">
+
