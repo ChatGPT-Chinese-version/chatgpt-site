@@ -1,9 +1,9 @@
-# 国内最全 ChatGPT 镜像站资源整理（支持 GPT-4 和多种功能）
+# 国内最全 ChatGPT 中文版镜像站资源整理（支持 GPT-4 和多种功能）
 
 > **更新时间：2024/12/02**  
 > **作者：lory-b**
 <meta name="description" content="国内最全的 ChatGPT 镜像站整理，支持 GPT-4 和免费使用教程">
-<meta name="keywords" content="ChatGPT镜像网站, 镜像网站, 国内, GPT-4, 免费, 中文版">
+<meta name="keywords" content="ChatGPT镜像网站, ChatGPT中文版, 国内, GPT-4, 免费, ChatGPT">
 
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 **ChatGPT 镜像站资源**，方便用户无需翻墙即可快速访问 GPT 的强大功能，同时提供免费的使用教程和详细对比分析，助您快速找到最适合的镜像站点。
