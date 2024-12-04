@@ -1,6 +1,6 @@
 # 国内最全 ChatGPT 中文版镜像站资源整理（支持 GPT-4 和多种功能）
 
-> **更新时间：2024/12/02**  
+> **更新时间：2024/12/04**  
 > **作者：lory-b**
 <meta name="description" content="国内最全的 ChatGPT 镜像站整理，支持 GPT-4 和免费使用教程">
 <meta name="keywords" content="ChatGPT镜像网站, ChatGPT中文版, 国内, GPT-4, 免费, ChatGPT">
