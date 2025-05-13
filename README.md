@@ -1,6 +1,6 @@
 # 【5月持续更新】国内最全 ChatGPT 中文版镜像网站资源整理（支持 GPT-4，无需翻墙）
 
-> **更新时间： 2025/05/13**  
+> **更新时间： 2025/05/14**  
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 **ChatGPT 镜像站资源**，方便用户无需翻墙即可快速访问 GPT 的强大功能，同时提供免费的使用教程和详细对比分析，助您快速找到最适合的镜像站点。
 
@@ -37,15 +37,15 @@
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [snakegpt.chat](https://snakegpt.chat)   | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1, Claude  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4, GPT-o1, Claude  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 ### 🔍 **推荐理由**：
 
-1. **[snakegpt.chat](https://snakegpt.chat)**：支持多功能扩展（GPT-4 和 Midjourney 绘图）。  
-2. **[gptcat.cc](https://gptcat.cc)**：几乎一比一还原官网，并支持 GPT 和 Claude 的混合使用。  
+1. **[snakegpt.com.cn](https://snakegpt.com.cn)**：支持多功能扩展（GPT-4 和 Midjourney 绘图）。  
+2. **[chat2.gptcat.cc](https://chat2.gptcat.cc)**：几乎一比一还原官网，并支持 GPT 和 Claude 的混合使用。  
 3. **[ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)**：适合开发者和需要调用 API 的用户。  
 4. **[gptdog.online](https://gptdog.online)**：界面简单清爽，但功能和稳定性稍逊一筹。  
 
@@ -54,7 +54,7 @@
 ## **如何快速开始使用？（详细教程）**
 
 1. **选择合适的镜像站点**  
-   - 根据您的需求和功能表，选择合适的站点。例如：[snakegpt.chat](https://snakegpt.chat)。  
+   - 根据您的需求和功能表，选择合适的站点。例如：[snakegpt.com.cn](https://snakegpt.com.cn)。  
 
 2. **注册或直接使用**  
    - 部分站点支持免注册体验，但建议使用支持国内邮箱注册的站点进行完整功能使用。  
